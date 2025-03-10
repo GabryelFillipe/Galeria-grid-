@@ -1,6 +1,6 @@
 # Galeria-grid-
 
-![](./img/agua.png)
+![](./img/agua2.png)
 
 ## Tecnologias
 
